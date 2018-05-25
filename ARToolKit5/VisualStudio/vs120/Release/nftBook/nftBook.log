@@ -1,0 +1,24 @@
+﻿生成启动时间为 2018/5/24 21:12:29。
+     1>项目“G:\ARToolKit5\VisualStudio\vs120\nftBook.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"G:\ARToolKit5\VisualStudio\vs120\..\..\include\win32-i386" /IG:\ARToolKit5\VisualStudio\vs120\..\..\include /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _CONSOLE /D _CRT_SECURE_NO_DEPRECATE /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\nftBook\\" /Fd"Release\nftBook\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\examples\nftBook\trackingSub.c ..\..\examples\nftBook\VirtualEnvironment.c ..\..\examples\nftBook\nftBook.c ..\..\examples\nftBook\ARMarkerNFT.c
+         trackingSub.c
+         VirtualEnvironment.c
+         nftBook.c
+     1>..\..\examples\nftBook\nftBook.c(736): warning C4018: “<”: 有符号/无符号不匹配
+         ARMarkerNFT.c
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\ARToolKit5\VisualStudio\vs120\..\..\bin\nftBook.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"G:\ARToolKit5\VisualStudio\vs120\..\..\lib\win32-i386" /LIBPATH:G:\ARToolKit5\VisualStudio\vs120\..\..\lib AR.lib ARICP.lib ARgsub_lite.lib ARvideo.lib ARosg.lib AR2.lib pthreadVC2.lib KPM.lib ARUtil.lib libjpeg.lib shell32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"G:\ARToolKit5\VisualStudio\vs120\..\..\bin\nftBook.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"G:\ARToolKit5\VisualStudio\vs120\..\..\bin\nftBook.lib" /MACHINE:X86 /SAFESEH Release\nftBook\trackingSub.obj
+         Release\nftBook\VirtualEnvironment.obj
+         Release\nftBook\nftBook.obj
+         Release\nftBook\ARMarkerNFT.obj
+         libjpeg.lib(jerror.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+         正在生成代码
+         已完成代码的生成
+         nftBook.vcxproj -> G:\ARToolKit5\VisualStudio\vs120\..\..\bin\nftBook.exe
+     1>已完成生成项目“G:\ARToolKit5\VisualStudio\vs120\nftBook.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.85

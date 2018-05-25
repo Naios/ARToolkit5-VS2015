@@ -1,0 +1,9 @@
+﻿生成启动时间为 2018/5/24 21:11:51。
+     1>项目“G:\ARToolKit5\VisualStudio\vs120\Configure.vcxproj”在节点 2 上(Build 个目标)。
+     1>Build:
+         C:\Windows\system32\cmd.exe /C "START /WAIT WScript.exe G:\ARToolKit5\VisualStudio\vs120\..\..\Configure-win32.vbs //NoLogo"
+     1>已完成生成项目“G:\ARToolKit5\VisualStudio\vs120\Configure.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.63

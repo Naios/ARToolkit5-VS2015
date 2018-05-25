@@ -1,0 +1,20 @@
+﻿生成启动时间为 2018/5/24 21:14:21。
+     1>项目“G:\ARToolKit5\VisualStudio\vs120\ARMulti.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IG:\ARToolKit5\VisualStudio\vs120\..\..\include /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\ARMulti\\" /Fd"x64\Debug\ARMulti\vc120.pdb" /Gd /TC /errorReport:prompt ..\..\lib\SRC\ARMulti\arMultiFreeConfig.c ..\..\lib\SRC\ARMulti\arMultiGetTransMat.c ..\..\lib\SRC\ARMulti\arMultiGetTransMatStereo.c ..\..\lib\SRC\ARMulti\arMultiReadConfigFile.c
+         arMultiFreeConfig.c
+         arMultiGetTransMat.c
+         arMultiGetTransMatStereo.c
+         arMultiReadConfigFile.c
+         正在生成代码...
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"G:\ARToolKit5\VisualStudio\vs120\..\..\lib\win64-x64\ARMultid.lib" /NOLOGO /MACHINE:X64 x64\Debug\ARMulti\arMultiFreeConfig.obj
+         x64\Debug\ARMulti\arMultiGetTransMat.obj
+         x64\Debug\ARMulti\arMultiGetTransMatStereo.obj
+         x64\Debug\ARMulti\arMultiReadConfigFile.obj
+         ARMulti.vcxproj -> G:\ARToolKit5\VisualStudio\vs120\..\..\lib\win64-x64\ARMultid.lib
+     1>已完成生成项目“G:\ARToolKit5\VisualStudio\vs120\ARMulti.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.91

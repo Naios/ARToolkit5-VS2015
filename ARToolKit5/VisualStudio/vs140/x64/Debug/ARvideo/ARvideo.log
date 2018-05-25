@@ -1,0 +1,46 @@
+﻿生成启动时间为 2018/5/24 21:14:40。
+     1>项目“G:\ARToolKit5\VisualStudio\vs120\ARvideo.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IG:\ARToolKit5\VisualStudio\vs120\..\..\include /I"G:\ARToolKit5\VisualStudio\vs120\..\..\include\win64-x64" /IG:\ARToolKit5\VisualStudio\vs120\..\..\lib\SRC\VideoWinDSVL /IG:\ARToolKit5\VisualStudio\vs120\..\..\lib\SRC\VideoWinDS /IG:\ARToolKit5\VisualStudio\vs120\..\..\DSVL\src /Iinclude /I"C:\Program Files\Point Grey Research\FlyCapture2\include\FC1" /I"C:\Program Files\Point Grey Research\PGR FlyCapture\include" /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _DLL /D LIBARVIDEO_EXPORTS /D _CRT_SECURE_NO_DEPRECATE /D _WINDLL /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\ARvideo\\" /Fd"x64\Debug\ARvideo\vc120.pdb" /Gd /TP /wd4018 /wd4065 /wd4996 /errorReport:prompt ..\..\lib\SRC\VideoWinMF\LogMediaType.cpp ..\..\lib\SRC\VideoWinMF\videoWinMF.cpp ..\..\lib\SRC\VideoDummy\videoDummy.c ..\..\lib\SRC\VideoImage\videoImage.c ..\..\lib\SRC\VideoQuickTime\videoQuickTime.c ..\..\lib\SRC\VideoWinDF\videoWinDF.cpp ..\..\lib\SRC\VideoWinDS\videoWinDS.cpp ..\..\lib\SRC\VideoWinDSVL\videoWinDSVL.cpp
+         LogMediaType.cpp
+         videoWinMF.cpp
+         videoDummy.c
+         videoImage.c
+         videoQuickTime.c
+     1>..\..\lib\SRC\VideoQuickTime\videoQuickTime.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         videoWinDF.cpp
+         videoWinDS.cpp
+         videoWinDSVL.cpp
+         正在生成代码...
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IG:\ARToolKit5\VisualStudio\vs120\..\..\include /I"G:\ARToolKit5\VisualStudio\vs120\..\..\include\win64-x64" /IG:\ARToolKit5\VisualStudio\vs120\..\..\lib\SRC\VideoWinDSVL /IG:\ARToolKit5\VisualStudio\vs120\..\..\lib\SRC\VideoWinDS /IG:\ARToolKit5\VisualStudio\vs120\..\..\DSVL\src /Iinclude /I"C:\Program Files\Point Grey Research\FlyCapture2\include\FC1" /I"C:\Program Files\Point Grey Research\PGR FlyCapture\include" /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _DLL /D LIBARVIDEO_EXPORTS /D _CRT_SECURE_NO_DEPRECATE /D _WINDLL /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\ARvideo\\" /Fd"x64\Debug\ARvideo\vc120.pdb" /Gd /TC /wd4018 /wd4065 /wd4996 /errorReport:prompt ..\..\lib\SRC\Video\video.c ..\..\lib\SRC\Video\video2.c ..\..\lib\SRC\VideoQuickTime\videoQuickTimeMovie.c ..\..\lib\SRC\Video\videoSaveImage.c ..\..\lib\SRC\Video\videoAspectRatio.c
+         video.c
+         video2.c
+         videoQuickTimeMovie.c
+         videoSaveImage.c
+         videoAspectRatio.c
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"G:\ARToolKit5\VisualStudio\vs120\..\..\bin64\ARvideod.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:G:\ARToolKit5\VisualStudio\vs120\..\..\lib /LIBPATH:"G:\ARToolKit5\VisualStudio\vs120\..\..\lib\win64-x64" /LIBPATH:G:\ARToolKit5\VisualStudio\vs120\..\..\DSVL\lib64 /LIBPATH:lib /LIBPATH:"C:\Program Files\Point Grey Research\FlyCapture2\lib\FC1" /LIBPATH:"C:\Program Files\Point Grey Research\PGR FlyCapture\lib" ARd.lib libjpeg.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:LIBC /NODEFAULTLIB:LIBCD /NODEFAULTLIB:LIBCMT /NODEFAULTLIB:LIBCMTD /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\ARToolKit5\VisualStudio\vs120\..\..\bin64\ARvideod.pdb" /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"G:\ARToolKit5\VisualStudio\vs120\..\..\lib\win64-x64\ARvideod.lib" /MACHINE:X64 /DLL x64\Debug\ARvideo\LogMediaType.obj
+         x64\Debug\ARvideo\videoWinMF.obj
+         x64\Debug\ARvideo\video.obj
+         x64\Debug\ARvideo\video2.obj
+         x64\Debug\ARvideo\videoDummy.obj
+         x64\Debug\ARvideo\videoImage.obj
+         x64\Debug\ARvideo\videoQuickTime.obj
+         x64\Debug\ARvideo\videoQuickTimeMovie.obj
+         x64\Debug\ARvideo\videoSaveImage.obj
+         x64\Debug\ARvideo\videoAspectRatio.obj
+         x64\Debug\ARvideo\videoWinDF.obj
+         x64\Debug\ARvideo\videoWinDS.obj
+         x64\Debug\ARvideo\videoWinDSVL.obj
+         libjpeg.lib(jerror.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+            正在创建库 G:\ARToolKit5\VisualStudio\vs120\..\..\lib\win64-x64\ARvideod.lib 和对象 G:\ARToolKit5\VisualStudio\vs120\..\..\lib\win64-x64\ARvideod.exp
+     1>LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+         正在生成代码
+         已完成代码的生成
+         ARvideo.vcxproj -> G:\ARToolKit5\VisualStudio\vs120\..\..\bin64\ARvideod.dll
+     1>已完成生成项目“G:\ARToolKit5\VisualStudio\vs120\ARvideo.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.04

@@ -1,0 +1,9 @@
+﻿  argBase.c
+  argDraw.c
+  argDrawImage.c
+  argDrawMode.c
+  argFunction.c
+  argWindow.c
+  gsubTest.c
+  正在生成代码...
+  ARgsub.vcxproj -> G:\ARToolKit5\VisualStudio\vs140\..\..\lib\win64-x64\ARgsub.lib

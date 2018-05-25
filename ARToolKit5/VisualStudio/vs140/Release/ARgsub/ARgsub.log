@@ -1,0 +1,26 @@
+﻿生成启动时间为 2018/5/24 21:11:54。
+     1>项目“G:\ARToolKit5\VisualStudio\vs120\ARgsub.vcxproj”在节点 3 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"G:\ARToolKit5\VisualStudio\vs120\..\..\include\win32-i386" /IG:\ARToolKit5\VisualStudio\vs120\..\..\include /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _LIB /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\ARgsub\\" /Fd"Release\ARgsub\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\lib\SRC\Gl\argBase.c ..\..\lib\SRC\Gl\argDraw.c ..\..\lib\SRC\Gl\argDrawImage.c ..\..\lib\SRC\Gl\argDrawMode.c ..\..\lib\SRC\Gl\argFunction.c ..\..\lib\SRC\Gl\argWindow.c ..\..\lib\SRC\Gl\gsubTest.c
+         argBase.c
+         argDraw.c
+         argDrawImage.c
+         argDrawMode.c
+         argFunction.c
+         argWindow.c
+         gsubTest.c
+         正在生成代码...
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"G:\ARToolKit5\VisualStudio\vs120\..\..\lib\win32-i386\ARgsub.lib" /NOLOGO Release\ARgsub\argBase.obj
+         Release\ARgsub\argDraw.obj
+         Release\ARgsub\argDrawImage.obj
+         Release\ARgsub\argDrawMode.obj
+         Release\ARgsub\argFunction.obj
+         Release\ARgsub\argWindow.obj
+         Release\ARgsub\gsubTest.obj
+         ARgsub.vcxproj -> G:\ARToolKit5\VisualStudio\vs120\..\..\lib\win32-i386\ARgsub.lib
+     1>已完成生成项目“G:\ARToolKit5\VisualStudio\vs120\ARgsub.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.88

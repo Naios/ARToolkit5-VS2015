@@ -1,0 +1,10 @@
+﻿生成启动时间为 2018/5/24 21:14:45。
+     1>项目“G:\ARToolKit5\VisualStudio\vs120\calib_camera.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\ARToolKit5\VisualStudio\vs120\..\..\bin\calib_camerad.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"G:\ARToolKit5\VisualStudio\vs120\..\..\lib\win32-i386" /LIBPATH:G:\ARToolKit5\VisualStudio\vs120\..\..\lib ARd.lib ARICPd.lib ARvideod.lib ARgsubd.lib opencv_core2410d.lib opencv_calib3d2410d.lib opencv_imgproc2410d.lib shell32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\ARToolKit5\VisualStudio\vs120\..\..\bin\calib_camera.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"G:\ARToolKit5\VisualStudio\vs120\..\..\bin\calib_camerad.lib" /MACHINE:X86 /SAFESEH Debug\calib_camera\calib_camera.obj
+     1>LINK : fatal error LNK1181: 无法打开输入文件“opencv_core2410d.lib”
+     1>已完成生成项目“G:\ARToolKit5\VisualStudio\vs120\calib_camera.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.51

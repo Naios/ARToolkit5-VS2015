@@ -1,0 +1,52 @@
+﻿生成启动时间为 2018/5/24 21:15:27。
+     1>项目“G:\ARToolKit5\VisualStudio\vs120\KPM.vcxproj”在节点 3 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IG:\ARToolKit5\VisualStudio\vs120\..\..\lib\SRC\KPM\FreakMatcher /I"G:\ARToolKit5\VisualStudio\vs120\..\..\include\win64-x64" /IG:\ARToolKit5\VisualStudio\vs120\..\..\include /nologo /W3 /WX- /O2 /D WIN32 /D NDEBUG /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\KPM\\" /Fd"x64\Release\KPM\vc120.pdb" /Gd /TP /wd4018 /wd4244 /wd4290 /wd4305 /wd4521 /wd4522 /errorReport:prompt ..\..\lib\SRC\KPM\FreakMatcher\detectors\DoG_scale_invariant_detector.cpp ..\..\lib\SRC\KPM\FreakMatcher\detectors\gaussian_scale_space_pyramid.cpp ..\..\lib\SRC\KPM\FreakMatcher\detectors\gradients.cpp ..\..\lib\SRC\KPM\FreakMatcher\detectors\harris.cpp ..\..\lib\SRC\KPM\FreakMatcher\detectors\orientation_assignment.cpp ..\..\lib\SRC\KPM\FreakMatcher\detectors\pyramid.cpp ..\..\lib\SRC\KPM\FreakMatcher\facade\visual_database_facade.cpp ..\..\lib\SRC\KPM\FreakMatcher\framework\date_time.cpp ..\..\lib\SRC\KPM\FreakMatcher\framework\image.cpp ..\..\lib\SRC\KPM\FreakMatcher\framework\logger.cpp ..\..\lib\SRC\KPM\FreakMatcher\framework\timers.cpp ..\..\lib\SRC\KPM\FreakMatcher\matchers\freak.cpp ..\..\lib\SRC\KPM\FreakMatcher\matchers\hough_similarity_voting.cpp ..\..\lib\SRC\KPM\kpmHandle.cpp ..\..\lib\SRC\KPM\kpmMatching.cpp ..\..\lib\SRC\KPM\kpmRefDataSet.cpp ..\..\lib\SRC\KPM\kpmResult.cpp ..\..\lib\SRC\KPM\kpmUtil.cpp
+         DoG_scale_invariant_detector.cpp
+         gaussian_scale_space_pyramid.cpp
+         gradients.cpp
+         harris.cpp
+         orientation_assignment.cpp
+         pyramid.cpp
+         visual_database_facade.cpp
+         date_time.cpp
+         image.cpp
+         logger.cpp
+         timers.cpp
+         freak.cpp
+         hough_similarity_voting.cpp
+         kpmHandle.cpp
+         kpmMatching.cpp
+     1>..\..\lib\SRC\KPM\kpmMatching.cpp(287): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+         kpmRefDataSet.cpp
+         kpmResult.cpp
+         kpmUtil.cpp
+         正在生成代码...
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IG:\ARToolKit5\VisualStudio\vs120\..\..\lib\SRC\KPM\FreakMatcher /I"G:\ARToolKit5\VisualStudio\vs120\..\..\include\win64-x64" /IG:\ARToolKit5\VisualStudio\vs120\..\..\include /nologo /W3 /WX- /O2 /D WIN32 /D NDEBUG /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\KPM\\" /Fd"x64\Release\KPM\vc120.pdb" /Gd /TC /wd4018 /wd4244 /wd4290 /wd4305 /wd4521 /wd4522 /errorReport:prompt ..\..\lib\SRC\KPM\kpmFopen.c
+         kpmFopen.c
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"G:\ARToolKit5\VisualStudio\vs120\..\..\lib\win64-x64\KPM.lib" /NOLOGO /MACHINE:X64 x64\Release\KPM\DoG_scale_invariant_detector.obj
+         x64\Release\KPM\gaussian_scale_space_pyramid.obj
+         x64\Release\KPM\gradients.obj
+         x64\Release\KPM\harris.obj
+         x64\Release\KPM\orientation_assignment.obj
+         x64\Release\KPM\pyramid.obj
+         x64\Release\KPM\visual_database_facade.obj
+         x64\Release\KPM\date_time.obj
+         x64\Release\KPM\image.obj
+         x64\Release\KPM\logger.obj
+         x64\Release\KPM\timers.obj
+         x64\Release\KPM\freak.obj
+         x64\Release\KPM\hough_similarity_voting.obj
+         x64\Release\KPM\kpmFopen.obj
+         x64\Release\KPM\kpmHandle.obj
+         x64\Release\KPM\kpmMatching.obj
+         x64\Release\KPM\kpmRefDataSet.obj
+         x64\Release\KPM\kpmResult.obj
+         x64\Release\KPM\kpmUtil.obj
+         KPM.vcxproj -> G:\ARToolKit5\VisualStudio\vs120\..\..\lib\win64-x64\KPM.lib
+     1>已完成生成项目“G:\ARToolKit5\VisualStudio\vs120\KPM.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.36

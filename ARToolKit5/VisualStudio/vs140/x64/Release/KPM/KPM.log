@@ -1,0 +1,28 @@
+﻿  DoG_scale_invariant_detector.cpp
+  gaussian_scale_space_pyramid.cpp
+  gradients.cpp
+  harris.cpp
+  orientation_assignment.cpp
+  pyramid.cpp
+  visual_database_facade.cpp
+  date_time.cpp
+  image.cpp
+  logger.cpp
+  timers.cpp
+  freak.cpp
+g:\artoolkit5\lib\src\kpm\freakmatcher\matchers\freak84-inline.h(82): warning C4838: 从“double”转换到“const float”需要收缩转换
+g:\artoolkit5\lib\src\kpm\freakmatcher\matchers\freak84-inline.h(90): warning C4838: 从“double”转换到“const float”需要收缩转换
+g:\artoolkit5\lib\src\kpm\freakmatcher\matchers\freak84-inline.h(98): warning C4838: 从“double”转换到“const float”需要收缩转换
+g:\artoolkit5\lib\src\kpm\freakmatcher\matchers\freak84-inline.h(106): warning C4838: 从“double”转换到“const float”需要收缩转换
+g:\artoolkit5\lib\src\kpm\freakmatcher\matchers\freak84-inline.h(114): warning C4838: 从“double”转换到“const float”需要收缩转换
+g:\artoolkit5\lib\src\kpm\freakmatcher\matchers\freak84-inline.h(122): warning C4838: 从“double”转换到“const float”需要收缩转换
+  hough_similarity_voting.cpp
+  kpmHandle.cpp
+  kpmMatching.cpp
+..\..\lib\SRC\KPM\kpmMatching.cpp(287): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+  kpmRefDataSet.cpp
+  kpmResult.cpp
+  kpmUtil.cpp
+  正在生成代码...
+  kpmFopen.c
+  KPM.vcxproj -> G:\ARToolKit5\VisualStudio\vs140\..\..\lib\win64-x64\KPM.lib

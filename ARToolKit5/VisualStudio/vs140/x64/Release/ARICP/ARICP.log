@@ -1,0 +1,11 @@
+﻿  icpCalibStereo.c
+  icpCore.c
+  icpHandle.c
+  icpPoint.c
+  icpPointRobust.c
+  icpStereoHandle.c
+  icpStereoPoint.c
+  icpStereoPointRobust.c
+  icpUtil.c
+  正在生成代码...
+  ARICP.vcxproj -> G:\ARToolKit5\VisualStudio\vs140\..\..\lib\win64-x64\ARICP.lib

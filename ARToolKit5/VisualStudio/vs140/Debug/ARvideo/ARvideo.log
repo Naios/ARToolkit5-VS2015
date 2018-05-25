@@ -1,0 +1,20 @@
+﻿生成启动时间为 2018/5/24 21:10:53。
+     1>项目“G:\ARToolKit5\VisualStudio\vs120\ARvideo.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IG:\ARToolKit5\VisualStudio\vs120\..\..\include /I"G:\ARToolKit5\VisualStudio\vs120\..\..\include\win32-i386" /IG:\ARToolKit5\VisualStudio\vs120\..\..\lib\SRC\VideoWinDSVL /IG:\ARToolKit5\VisualStudio\vs120\..\..\lib\SRC\VideoWinDS /IG:\ARToolKit5\VisualStudio\vs120\..\..\DSVL\src /Iinclude /I"C:\Program Files (x86)\QuickTime SDK\CIncludes" /I"C:\Program Files (x86)\Point Grey Research\FlyCapture2\include\FC1" /I"C:\Program Files (x86)\Point Grey Research\PGR FlyCapture\include" /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _DLL /D LIBARVIDEO_EXPORTS /D _CRT_SECURE_NO_DEPRECATE /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\ARvideo\\" /Fd"Debug\ARvideo\vc120.pdb" /Gd /TP /wd4018 /wd4065 /wd4996 /analyze- /errorReport:prompt ..\..\lib\SRC\VideoWinMF\LogMediaType.cpp ..\..\lib\SRC\VideoWinMF\videoWinMF.cpp ..\..\lib\SRC\VideoDummy\videoDummy.c ..\..\lib\SRC\VideoImage\videoImage.c ..\..\lib\SRC\VideoQuickTime\videoQuickTime.c ..\..\lib\SRC\VideoWinDF\videoWinDF.cpp ..\..\lib\SRC\VideoWinDS\videoWinDS.cpp ..\..\lib\SRC\VideoWinDSVL\videoWinDSVL.cpp
+         videoWinDSVL.cpp
+         videoWinDS.cpp
+         videoWinDF.cpp
+         videoQuickTime.c
+     1>..\..\lib\SRC\VideoQuickTime\videoQuickTime.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>..\..\lib\SRC\VideoQuickTime\videoQuickTime.c(86): fatal error C1083: 无法打开包括文件: “Movies.h”: No such file or directory
+         videoImage.c
+         videoDummy.c
+         videoWinMF.cpp
+         LogMediaType.cpp
+         正在生成代码...
+     1>已完成生成项目“G:\ARToolKit5\VisualStudio\vs120\ARvideo.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:04.38

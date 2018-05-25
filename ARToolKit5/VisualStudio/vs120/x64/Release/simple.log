@@ -1,0 +1,16 @@
+﻿生成启动时间为 2018/5/24 21:30:58。
+     1>项目“G:\ARToolKit5\VisualStudio\vs120\simple.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"G:\ARToolKit5\VisualStudio\vs120\..\..\include\win64-x64" /IG:\ARToolKit5\VisualStudio\vs120\..\..\include /Zi /nologo /W1 /WX- /O2 /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TC /errorReport:prompt ..\..\examples\simple\simpleTest.c
+         simpleTest.c
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"G:\ARToolKit5\VisualStudio\vs120\..\..\bin64\simple.exe" /NOLOGO /LIBPATH:"G:\ARToolKit5\VisualStudio\vs120\..\..\lib\win64-x64" /LIBPATH:G:\ARToolKit5\VisualStudio\vs120\..\..\lib AR.lib ARICP.lib ARgsub.lib ARvideo.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"G:\ARToolKit5\VisualStudio\vs120\..\..\bin64\simple.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\ARToolKit5\VisualStudio\vs120\..\..\bin64\simple.lib" /MACHINE:X64 x64\Release\simpleTest.obj
+         "G:\ARToolKit5\lib\win64-x64\AR.lib"
+         "G:\ARToolKit5\lib\win64-x64\ARgsub.lib"
+         "G:\ARToolKit5\lib\win64-x64\ARvideo.lib"
+         simple.vcxproj -> G:\ARToolKit5\VisualStudio\vs120\..\..\bin64\simple.exe
+     1>已完成生成项目“G:\ARToolKit5\VisualStudio\vs120\simple.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.81

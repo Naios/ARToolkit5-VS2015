@@ -1,0 +1,6 @@
+﻿  arMultiFreeConfig.c
+  arMultiGetTransMat.c
+  arMultiGetTransMatStereo.c
+  arMultiReadConfigFile.c
+  正在生成代码...
+  ARMulti.vcxproj -> G:\ARToolKit5\VisualStudio\vs140\..\..\lib\win64-x64\ARMulti.lib

@@ -1,0 +1,18 @@
+﻿生成启动时间为 2018/5/24 21:12:35。
+     1>项目“G:\ARToolKit5\VisualStudio\vs120\simpleOSG.vcxproj”在节点 3 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"G:\ARToolKit5\VisualStudio\vs120\..\..\include\win32-i386" /IG:\ARToolKit5\VisualStudio\vs120\..\..\include /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _CONSOLE /D _CRT_SECURE_NO_DEPRECATE /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\simpleOSG\\" /Fd"Release\simpleOSG\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\examples\simpleOSG\ARMarkerSquare.c ..\..\examples\simpleOSG\simpleOSG.c ..\..\examples\simpleOSG\VirtualEnvironment.c
+         ARMarkerSquare.c
+         simpleOSG.c
+         VirtualEnvironment.c
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\ARToolKit5\VisualStudio\vs120\..\..\bin\simpleOSG.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"G:\ARToolKit5\VisualStudio\vs120\..\..\lib\win32-i386" /LIBPATH:G:\ARToolKit5\VisualStudio\vs120\..\..\lib AR.lib ARICP.lib ARgsub_lite.lib ARvideo.lib ARosg.lib shell32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"G:\ARToolKit5\VisualStudio\vs120\..\..\bin\simpleOSG.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"G:\ARToolKit5\VisualStudio\vs120\..\..\bin\simpleOSG.lib" /MACHINE:X86 /SAFESEH Release\simpleOSG\ARMarkerSquare.obj
+         Release\simpleOSG\simpleOSG.obj
+         Release\simpleOSG\VirtualEnvironment.obj
+         simpleOSG.vcxproj -> G:\ARToolKit5\VisualStudio\vs120\..\..\bin\simpleOSG.exe
+     1>已完成生成项目“G:\ARToolKit5\VisualStudio\vs120\simpleOSG.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.14
